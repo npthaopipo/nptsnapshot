@@ -1,3 +1,4 @@
 # nptsnapshot
 
-Phần mềm chụp ảnh màn hình, sửa nền đẹp Miễn Phí <img width="2027" height="1140" alt="image" src="https://github.com/user-attachments/assets/6bb2d18d-2978-497f-90c3-f2e690b2c7c0" />
+Phần mềm chụp ảnh màn hình, sửa nền đẹp Miễn Phí <img width="1916" height="1027" alt="image" src="https://github.com/user-attachments/assets/d3079cb4-3958-427e-afcc-a57e8973b41a" />
+
